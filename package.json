@@ -1,0 +1,15 @@
+{
+  "name": "robinhood",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.25",
+    "nodemailer": "^6.1.1",
+    "robinhood": "^1.6.4",
+    "smtp-connection": "^4.0.2"
+  }
+}
